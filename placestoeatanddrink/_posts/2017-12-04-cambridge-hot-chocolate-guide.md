@@ -1,5 +1,5 @@
 ---
-title:
+title: Cambridge Hot Chocolate Guide
 date: 2017-12-04
 layout: post
 ---
