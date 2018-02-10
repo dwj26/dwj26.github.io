@@ -14,6 +14,8 @@ Follow instruction here to install Bootstrap. https://simpleit.rocks/how-to-add-
 
 Install Visual Code
 
+
+#For windows 8
 Intall Jekyll:
 Installation via ChocolateyPermalink
 A quick way to install Jekyll using Chocolatey is to follow the installation instructions by David Burela:
@@ -39,8 +41,8 @@ https://jekyllrb.com/docs/windows/
 
 In terminal:
 jekyll build
-# => The current folder will be generated into ./_site
+ The current folder will be generated into ./_site
 
 jekyll serve
-# => A development server will run at http://localhost:4000/
-# Auto-regeneration: enabled. Use `--no-watch` to disable.
+ A development server will run at http://localhost:4000/
+Auto-regeneration: enabled. Use `--no-watch` to disable.
