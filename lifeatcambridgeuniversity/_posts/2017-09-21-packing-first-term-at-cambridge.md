@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 date: 2017-09-21
 title: PACKING FOR YOUR FIRST TERM AT CAMBRIDGE
 ---
