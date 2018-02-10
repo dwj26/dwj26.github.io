@@ -7,7 +7,6 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    font-size: 1.5em
 }
 nav ul li, footer ul li {
     display: inline;
@@ -45,4 +44,8 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+li.posts {
+    font-size: 1.5em
 }
