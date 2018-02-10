@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 date: 2017-07-30
 title: Mill Road's Hidden Gems
 ---
