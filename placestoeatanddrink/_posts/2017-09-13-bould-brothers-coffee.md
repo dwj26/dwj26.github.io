@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Warming Up at Bould Brothers Coffee
 date: 2017-09-13
 ---
