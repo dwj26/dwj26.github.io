@@ -1,6 +1,6 @@
 ---
-title: Healthy Brunch Spots: Espresso Library
-layout: posts
+title: Healthy Brunch Spots - Espresso Library
+layout: post
 date: 2018-01-22
 ---
 
