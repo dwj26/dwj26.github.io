@@ -27,10 +27,12 @@ Despite living in Cambridge for a number of years, I still haven’t sampled the
 <h2>PANCAKE INSPIRATION TO TRY AT HOME</h2>
 If you fancy some pancake flipping at home, here are some pancake toppings to try:
 
+<ul class="posts">
 <li>Nutella with raspberries and strawberries</li>
 <li>Maple syrup with streaky bacon </li>
 <li>Peanut butter and banana</li>
 <li>Baked apple with toffee sauce </li>
+</ul>
 
 <h2>SCOTCH PANCAKES WITH GREEK YOGHURT, BERRIES, AND FLAKED ALMONDS</h2>
 Don’t have time to make pancakes from scratch? Scotch pancakes (available from most local supermarkets) can make for an easy and tasty alternative on Pancake Day. Simply toast each pancake for about 3–5 minutes until slightly crisp on the outside and then top with spoonfuls of plain greek yoghurt, followed by a generous helping of raspberries and blueberries (if you’d prefer more of a berry dressing, gently soften the fruit on a low heat). For the finishing touch, sprinkle with some flaked almonds and, voila, yummy pancakes made in minutes!
