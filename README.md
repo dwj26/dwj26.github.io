@@ -20,11 +20,21 @@ A quick way to install Jekyll using Chocolatey is to follow the installation ins
 
 Install a package manager for Windows called Chocolatey
 Install Ruby via Chocolatey: choco install ruby -y
+
+You must also install the Ruby DevKit along with Ruby.:
+https://rubyinstaller.org/downloads/
+install the DevKit in c:/DevKit
+then open command prompt and navigate to c:/Devkit
+cd C:\DevKit
+ruby dk.rb init
+ruby dk.rb install
+devkitvars.bat
+
 Reopen a command prompt and install Jekyll: gem install jekyll
 Updates in the infrastructure of Ruby may cause SSL errors when attempting to use gem install with versions of the RubyGems package older than 2.6. (The RubyGems package installed via the Chocolatey tool is version 2.3) If you have installed an older version, you can update the RubyGems package using the directions here.
 https://jekyllrb.com/docs/windows/
 
-If you keep getting errors install GitBash and install via the GitBash terminal
+
 
 
 In terminal:
