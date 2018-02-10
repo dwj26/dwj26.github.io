@@ -4,12 +4,11 @@ layout: post
 date: 2017-10-01
 ---
 
-A ROMANTIC DINNER AT VARSITY RESTAURANT
 Whether you’re in a long-term relationship or just getting to know someone, going on a date is always exciting! While there are many things to decide on, such as which outfit to wear and how to style your hair, you also have to choose a restaurant. Fortunately, Cambridge has lots of romantic places for dinner but the Varsity Restaurant is one of my new favourites.
 
 Varsity Restaurant is a quaint little bistro located in a beautiful townhouse on Regent’s Street. Despite being easily missed when in a hurry walking to work or running errands, Varsity’s exquisite food will leave you wishing you’d booked a table sooner.
 
-Varsity Restaurant
+<h2>Varsity Restaurant</h2>
 
 The restaurant is split over two floors with just a handful of tables on each, creating a cosy atmosphere for a special evening out. The small number of tables still gives Varsity a nice lively atmosphere but one that isn’t too loud so you can easily chat to your partner over dinner.
 
@@ -29,7 +28,7 @@ Chicken supreme with sweetcorn
 
 The service at the Varsity Restaurant is second-to-none with the waiters and waitresses being incredibly friendly and helpful. Clearly Varsity has got its food, service, and atmosphere spot on as just earlier this year a sister restaurant called Trinity was opened on Trinity Street.
 
- Eton mess with fennel biscuit 
+Eton mess with fennel biscuit 
 
 Banana and toffee cheesecake
 
