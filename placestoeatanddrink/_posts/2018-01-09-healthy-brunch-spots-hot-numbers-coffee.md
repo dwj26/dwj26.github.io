@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Healthy Brunch Spots: Hot Numbers Coffee
 date: 2018-01-09
 ---
