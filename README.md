@@ -10,6 +10,8 @@ Install Yarn https://yarnpkg.com/lang/en/docs/install/
 
 Install Github desktop and clone into folder
 
+Follow instruction here to get Bootstrap. https://simpleit.rocks/how-to-add-bootstrap-4-to-jekyll-the-right-way/
+
 Install Visual Code
 
 In terminal:
