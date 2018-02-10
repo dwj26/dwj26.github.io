@@ -6,3 +6,18 @@ title: A Slice of Cambridge
 	<h1>A Slice of Cambridge</h1>
 	<p>Places to eat, drink and see in Cambridge as well as stories about life in Cambridge <a href="/about">Read more about my life...</a></p>
 </div><!-- /.blurb -->
+
+<div class="container">
+
+    <div class="row">
+            {% for post in site.posts %}
+
+                <div class="col-md-6">
+                    <a href="{{ post.url }}">
+                        <h3>{{ post.title }}</h3>
+                    </a>
+                </div>
+            {% endfor %}
+    </div>
+
+</div>
