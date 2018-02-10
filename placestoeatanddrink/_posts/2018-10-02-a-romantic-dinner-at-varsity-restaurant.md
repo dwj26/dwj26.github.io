@@ -1,6 +1,7 @@
 ---
 title: A Romantic Dinner at Varsity Restaurant
-layout: posts
+layout: post
+date: 2018-02-10
 ---
 
 A ROMANTIC DINNER AT VARSITY RESTAURANT
