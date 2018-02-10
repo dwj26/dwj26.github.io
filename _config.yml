@@ -1,2 +1,6 @@
-name: Hank Quinlan, Horrible Cop
+name: A Slice of Cambridge
 markdown: kramdown
+permalink: adayout/:title
+permalink: lifestyle/:title
+permalink: placestoeatanddrink/:title
+permalink: lifeatcambridgeuniversity/:title
