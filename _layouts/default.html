@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 	<html>
-	<script>function myFunction() {
-    var x = document.getElementById("myTopnav");
-    if (x.className === "topnav") {
-        x.className += " responsive";
-    } else {
-        x.className = "topnav";
-    }
-}</script>
+
+	<script src="/assets/navbar.js" type="text/javascript"></script>
 		<head>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" href="/assets/main.css">
 		</head>
 		<body>
+			<script>
+		    document.body.className = document.body.className + " js_enabled";
+			</script>
+			<div id="cookieConsent" align = "center">
+	This website is using cookies to improve your experience. <a href="/cookie-policy/" target="_blank">Find out more.</a> <a class="cookieConsentOK" id = "cookieok">Ok</a>
+</div>
 			<div class="container">
+
 			<div class="topnav" id="myTopnav">
   			<a href="/">Home</a>
   			<a href="/placestoeatanddrink/">Places to Eat and Drink</a>
@@ -52,9 +53,11 @@
 							<li><a href="/termsandconditions/">Terms and Conditions</a></li>
 	        		<li><a href="mailto:d.w.j@live.co.uk">Email</a></li>
 				</ul>
+
 			</footer>
 		<script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
 		<script src="{{'/node_modules/popper.js/dist/popper.min.js' | prepend: site.baseurl}}"></script>
 		<script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+		<script src="/assets/cookie.js"></script>
 		</body>
 	</html>
