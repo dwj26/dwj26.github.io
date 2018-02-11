@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-08-27
-title: PUNTING ALONG THE BACKS OF THE RIVER CAM
+title: Punting Along The Backs of the Cam
 ---
 
 Punting along The Backs is one of the most iconic things to do in Cambridge and is a fantastic day out with friends and family, or makes for a very special date. To see truly unmissable views of Cambridge University’s old colleges as well as the famous bridges, you should choose to go punting along The Backs rather than towards Grantchester. You can either hire a boat yourself and try your hand at punting. Alternatively, you can take a chauffeured tour along The Backs run by companies like Scudamores, where a professional will do the hard work for you and share stories about the history of Cambridge University.
@@ -27,4 +27,3 @@ Mathematical Bridge seen when punting along The Backs
 During Cambridge University’s May Week when many of the colleges hold black tie balls for students, you can book places on punts to watch the amazing firework displays put on by St John’s College, Trinity College, and Clare College, from the river. With these firework displays renowned for being some of the best around, snuggling up to watch from the river makes for a romantic evening. Places are highly sort after so make sure you book early or alternatively if you want a sneak peak into what a Cambridge May Ball includes, you can see preparations in full swing from the river during the day.
 
 View of St John's College Cambridge from The Backs
-

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-07-09
-title: EXPLORING ST JOHN’S COLLEGE AND CLARE COLLEGE
+title: Exploring St John's College and Clare College
 ---
 
 Planning a trip to Cambridge? With so many things to see and do in the city, it can be difficult to decide where to visit. To help, I’m going to be sharing some of my favourite places to visit in Cambridge. Here is how you can spend an afternoon exploring some of Cambridge University’s beautiful old colleges, St John’s College and Clare College.
@@ -13,7 +13,7 @@ First court of St John's College, Cambridge
 
 You’ll then find yourself at arguably one of the best spots in Cambridge for viewing the world-famous Bridge of Sighs (and for taking that all-important Instagram photo).
 
-Bridge of Sighs, St John's College, Cambridge 
+Bridge of Sighs, St John's College, Cambridge
 
 Across the river is St John’s Meadow; a fantastic spot for admiring the grand design of the college. The meadow is also where the magnificent firework display takes place for the annual May Ball, with many hiring punts to experience the magical atmosphere from the river.
 

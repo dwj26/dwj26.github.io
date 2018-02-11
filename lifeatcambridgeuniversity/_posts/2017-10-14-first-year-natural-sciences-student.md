@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-10-14
-title: A WEEK IN THE LIFE OF A FIRST YEAR NATURAL SCIENCES STUDENT
+title: A Week in the Life of a First Year Natural Sciences Student
 ---
 Studying the Natural Sciences course at the University of Cambridge is a once-in-a-lifetime experience. You are taught by some of the world’s leading scientists in surroundings where breakthrough discoveries have been made – not to mention that Cambridge is such a gorgeous city to live in! But studying the Natural Sciences course at Cambridge is not a walk in the park; it’s very fast-paced and involves a lot of hard work. Any NatSci student (Cambridge lingo for someone studying the Natural Sciences course) will tell you how they have spent many late nights frantically finishing essays or desperately trying to learn the enzymes in biological pathways. If you’re thinking of applying or just want an insight into life at Cambridge University, here is what a typical week for a first year biological Natural Sciences student looks like.
 
@@ -26,7 +26,7 @@ With first year students having a large amount of their time scheduled for pract
 9 PM—10 PM SUPERVISION WORK
 And a first year NatSci’s day doesn’t end there, most evenings will be dedicated to preparing supervision work – whether that’s researching and writing an essay, answering chemistry or maths questions, or creating a presentation.
 
- 
+
 
 TUESDAY
 7 AM—9 AM ROWING
@@ -53,7 +53,7 @@ It’s time to make sense of those messy notes you made from this morning’s le
 9 PM—LATE PRE-DRINKS AND CINDIES
 Tuesday nights out in Cindies will be on most students’ timetable. The nightclub Cindies (actually called Ballare) is renowned for its Big Fish Ents student nights where classic club hits, film theme tunes like Titanic, and Disney songs fill the club.
 
- 
+
 
 WEDNESDAY
 9 AM—10 AM MATHS LECTURE
@@ -69,7 +69,7 @@ With lectures for each subject being held at the same time every other day, it�
 8 PM—10 PM SUPERVISION WORK
 Time to start tackling those tricky chemistry questions you’ve been set, which will probably involve a trip to a friend’s room as two minds are more likely to solve these than one!
 
- 
+
 
 THURSDAY
 10 AM—11 AM CHEMISTRY LECTURE
@@ -83,7 +83,7 @@ Perhaps some of the most exciting experiments you’ll get to perform while stud
 7 PM—LATE FORMAL
 Time to enjoy a yummy three-course meal at your friend’s college to celebrate their birthday before heading to Lola Lo to round off the evening.
 
- 
+
 
 FRIDAY
 9 AM—10 AM MATHS LECTURE
@@ -98,7 +98,7 @@ A couple of hours spare to finish attempting those chemistry supervision questio
 9 PM—LATE CLARE CELLARS
 Clare Ents hosts Clare Cellars most Friday nights during term time, where bands and DJs come and perform in the cellars of Clare College. It’s a great chance to get together with friends from other colleges, enjoy a few drinks and relax after a busy week.
 
- 
+
 
 SATURDAY
 10 AM—11 AM CHEMISTRY LECTURE
@@ -115,7 +115,7 @@ There are lots of fab places to go for brunch in the city but as a student, brun
 5 PM—10 PM SUPERVISION WORK
 With a clear evening ahead, now is the time to tackle that physiology essay.
 
- 
+
 
 SUNDAY
 11 AM—12 PM COLLEGE CHOIR PRACTICE

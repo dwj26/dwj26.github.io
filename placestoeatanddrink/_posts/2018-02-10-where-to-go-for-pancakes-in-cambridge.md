@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Where to Go for Pancakes in Cambridge"
+title: Where to Go for Pancakes in Cambridge
 date: 2018-02-10
 ---
 
@@ -9,7 +9,7 @@ Pancake Day is just around the corner – the day where it is perfectly acceptab
 Here are my suggested places to go for pancakes in Cambridge this Pancake Day:
 
 <h2>HOT NUMBERS COFFEE</h2>
-Some of the most delicious pancakes I’ve tried in Cambridge recently are the buttermilk pancakes at Hot Numbers Coffee. Their fluffy pancakes are served with soft, cinnannon-spiced poached pears and juicy raspberries, and topped with a dollop of mascapone and tiny basil shoots. 
+Some of the most delicious pancakes I’ve tried in Cambridge recently are the buttermilk pancakes at Hot Numbers Coffee. Their fluffy pancakes are served with soft, cinnannon-spiced poached pears and juicy raspberries, and topped with a dollop of mascapone and tiny basil shoots.
 
 <h2>CRÊPE AFFAIRE</h2>
 Crêpe Affaire has one of the largest ranges of pancake toppings in Cambridge and you can even add extra items to create your ultimate pancake combination. Offering both savoury and sweet pancake toppings, including goats cheese with onion confit and spinach and apple with butterscotch sauce and crumble. At Crêpe Affaire you can watch your beautifully golden and thin pancake being made right in front of you too!
