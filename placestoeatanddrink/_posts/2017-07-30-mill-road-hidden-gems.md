@@ -2,6 +2,8 @@
 layout: post
 date: 2017-07-30
 title: Mill Road's Hidden Gems
+featured: true
+featured-img: /assets/img/mill.jpg
 ---
 
 Tucked away on the outskirts of the city centre is Mill Road – a road bursting with great independent shops, restaurants, pubs, and cafes. It’s no surprise that the cute houses in the surrounding area are so sought after. If you’re a foodie who loves trying new places, Mill Road will definitely be up your street.
@@ -15,7 +17,7 @@ Outside of Tom's Cakes, Mill Road
 
 Cakes, tarts, loafs, and shortbread in display counter
 
-Cakes, biscuits, and cupcakes in boxes 
+Cakes, biscuits, and cupcakes in boxes
 
 Flat white coffee and cake at Tom's Cakes, Mill Road
 
@@ -32,19 +34,19 @@ Freshly baked bread in a basket
 
 Bottles of cordial and juice
 
- 
+
 
 The divine cheese selection
 
- 
+
 
 The extensive cheese selection
 
- 
+
 
 Beautifully wrapped speciality chocolate
 
- 
+
 
 Beautifully wrapped bars of chocolate in a variety of flavours
 

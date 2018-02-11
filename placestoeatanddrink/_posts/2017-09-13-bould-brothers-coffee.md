@@ -2,13 +2,14 @@
 layout: post
 title: Warming Up at Bould Brothers Coffee
 date: 2017-09-13
+featured-img: /assets/img/bould.jpg
 ---
 
 On a crisp autumnal morning, there is nothing like a warming cup of tea or coffee to start your day. Great independent coffee shops are not rare in Cambridge but if you’re wandering around the shops on Bridge Street or exploring some of Cambridge’s beautiful old colleges, I’d recommend stopping at Bould Brothers Coffee.
 
 Bould Brothers Coffee, Bridge Street, Cambridge
 
- 
+
 
 Bould Brothers Coffee is an independent coffee shop located in a quintessential townhouse that offers a relaxing setting for a comforting drink or to finish writing an essay. With tables on the first floor, you can sip on a latte whilst looking out over the beautiful buildings of The Round Church and The Cambridge Union. The cafe has just a scattering of tables making it one of the quieter spots in Cambridge for collecting your thoughts or pondering the day ahead.
 

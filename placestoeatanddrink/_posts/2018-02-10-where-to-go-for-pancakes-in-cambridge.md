@@ -2,6 +2,7 @@
 layout: post
 title: Where to Go for Pancakes in Cambridge
 date: 2018-02-10
+featured-img: /assets/img/pancakes.jpg
 ---
 
 Pancake Day is just around the corner – the day where it is perfectly acceptable to have pancakes for breakfast, lunch, and dinner! But where’s best to go for pancakes in Cambridge to get your fix of flipping goodness? With toppings ranging from indulgent Nutella and strawberries, poached pears with raspberries and mascapone, to chia pancakes, as you can imagine, the Cambridge food scene does not disappoint when it comes to pancakes.

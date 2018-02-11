@@ -2,6 +2,8 @@
 layout: post
 date: 2017-07-09
 title: Exploring St John's College and Clare College
+featured: true
+featured-img: /assets/img/johns.jpg
 ---
 
 Planning a trip to Cambridge? With so many things to see and do in the city, it can be difficult to decide where to visit. To help, I’m going to be sharing some of my favourite places to visit in Cambridge. Here is how you can spend an afternoon exploring some of Cambridge University’s beautiful old colleges, St John’s College and Clare College.

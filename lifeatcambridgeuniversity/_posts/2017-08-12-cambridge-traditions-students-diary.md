@@ -2,6 +2,7 @@
 layout: post
 date: 2017-08-12
 title: Cambridge Traditions for a Student's Diary
+featured-img: /assets/img/traditions.jpg
 ---
 As you can imagine, a Cambridge University student’s diary is very busy, filled with lectures, supervisions, practicals, reading, formal halls, sports practices, society meet-ups, and of course socialising! However, there are some important Cambridge traditions bookmarked in every student’s calendar.
 

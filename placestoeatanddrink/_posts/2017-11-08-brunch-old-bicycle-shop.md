@@ -2,6 +2,7 @@
 layout: post
 title: Brunch at the Old Bicycle Shop
 date: 2017-11-08
+featured-img: /assets/img/bicycleshop.jpg
 ---
 
 
@@ -16,4 +17,3 @@ Offering everything from the more traditional eggs benedict, granola with yoghur
 Sweet potato pancakes for brunch at Old Bicycle Shop
 
 If you are starting your Christmas shopping over the coming weeks, why not treat yourself to a warming brunch at The Old Bicycle Shop – just the fuel you need before heading to the shops!
-
