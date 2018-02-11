@@ -6,8 +6,11 @@
 
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 78%;
 }
+
+
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
@@ -20,7 +23,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #88adc3;
 }
 a:hover {
     text-decoration: underline;
@@ -33,17 +36,21 @@ h2 {
     font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+h3 {
+  font-size: 1.2em;
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+}
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1em;
+    line-height: 1.2em;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
@@ -55,24 +62,128 @@ li.posts {
     font-size: 1.5em
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
 .cover-banner {
 	width: 100%;
-	height: 15vh;
+	height: 35vh;
 	max-height: 200px;
-	
+
 	position: relative;
-	top: -50px;
 	margin: 0 auto;
 	padding: 0;
 	overflow: visible;
-	
+
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: center;
 	background-size: cover;
 }
 
+.post-banner {
+	width: 100%;
+	height: 35vh;
+
+	position: relative;
+	margin: 0 auto;
+	padding: 0;
+	overflow: visible;
+
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+	background-size: cover;
+  background-image: url(/assets/img/IMG_6802-760x400.jpg);
+}
+.grid-banner {
+	width: 100%;
+  height: 35vh;
+
+	position: relative;
+	margin: 0 auto;
+	padding: 0;
+	overflow: visible;
+
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+	background-size: cover;
+  background-image: url(/assets/img/IMG_6802-760x400.jpg);
+}
 .navbar {
 	border-top: 1px solid;
 	border-bottom: 1px solid;
+}
+
+.cambridge-blue {
+  color: #b0e0e6;
+}
+
+.topnav {
+    background-color: #b0e0e6;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    display: block;
+    color: #000080;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add an active class to highlight the current page */
+.active {
+    background-color: #000080;
+    color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+    display: none;
+}
+
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 1070px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 1070px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
+.container .content {
+    position: absolute; /* Position the background text */
+    bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1; /* Grey text */
+    width: 100%;
+    height: auto;
 }

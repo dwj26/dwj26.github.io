@@ -1,33 +1,36 @@
 <!DOCTYPE html>
 	<html>
+	<script>function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}</script>
 		<head>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" href="/assets/main.css">
 		</head>
-		<body>	
-			
-			<header class="cover-banner" style="background-image: url('http://www.asliceofcambridge.com/wp-content/uploads/2017/07/cropped-cropped-cropped-Title-v0.3-without-bike-13Jun17-2.png');">
-			<a href = "/"></a>
-			</header>
-			<nav class = "navbar">
-	    		<ul>
-	      
-		        	<li><a href="/about/">About</a></li>
-	        		<li><a href="/placestoeatanddrink/">Places to Eat and Drink</a></li>
-	        		<li><a href="/adayout/">A Day Out</a></li>
-				<li><a href="/lifeatcambridgeuniversity/">Life at Cambridge University</a></li>
-				<li><a href="/lifestyle/">Lifestyle</a></li>
-	    		</ul>
-			</nav>
+		<body>
+			<div class="topnav" id="myTopnav">
+  			<a href="/" class="active" style="color: #b0e0e6">Home</a>
+  			<a href="/placestoeatanddrink/">Places to Eat and Drink</a>
+  			<a href="/adayout/">A Day Out</a>
+  			<a href="/lifeatcambridgeuniversity">Life at Cambridge University</a>
+				<a href="/lifestyle/">Lifestyle</a>
+  			<a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+			</div>
 			<div class="container">
-			
+				<p></p>
 			{{ content }}
-			
+
 			</div><!-- /.container -->
 			<footer>
 	    		<ul>
-	        		<li><a href="mailto:d.w.j@live.co.uk">email</a></li>
+							<li><a href="/about/">About</a></li>
+	        		<li><a href="mailto:d.w.j@live.co.uk">Email</a></li>
 				</ul>
 			</footer>
 		<script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>

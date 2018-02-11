@@ -2,20 +2,31 @@
 layout: default
 title: A Slice of Cambridge
 ---
+<div class = "container">
+<div class="cover-banner" style="background-image: url('/assets/img/IMG_6802-760x400.jpg');">
+<div class = "content">
+<h1 class="cambridge-blue" align = "center">A Slice of Cambridge</h1>
+</div>
+</div>
+</div>
 
-	<h1>A Slice of Cambridge</h1>
-	<p>Places to eat, drink and see in Cambridge as well as stories about life in Cambridge <a href="/about">Read more about my life...</a></p>
-</div><!-- /.blurb -->
-
+<p></p>
+<p align= "center">Places to eat, drink and see in Cambridge with stories about life in Cambridge.</p>
 <div class="container">
-
     <div class="row">
             {% for post in site.posts %}
 
                 <div class="col-md-6">
-                    <a href="{{ post.url }}">
-                        <h3>{{ post.title }}</h3>
-                    </a>
+									  <a href="{{ post.url }}">
+												<div class="grid-banner" {% if post.featured-img %} style="background-image: url('{{ post.featured-img }}');" {% endif %}>
+													<div class = "content">
+													<h3>{{ post.title }}</h3>
+													<p>{{post.date | date_to_string}}</p>
+												</div>
+												<p></p>
+											</div>
+										</a>
+
                 </div>
             {% endfor %}
     </div>
