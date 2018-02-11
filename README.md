@@ -16,7 +16,11 @@ Install Visual Code
 
 # => For Ubuntu
 Git clone Repo
+<<<<<<< HEAD
 Install Atom -
+=======
+Install Atom - 
+>>>>>>> 00ea752633148ccecb145f7b00cdc8c6080436cf
 sudo add-apt-repository ppa:webupd8team/atom
 sudo apt-get update
 sudo apt-get install atom
@@ -24,9 +28,12 @@ sudo apt-get install atom
 Open a Project in Atom on the cloned Repository
 Link Atom with Github - github.atom.io/login
 
+<<<<<<< HEAD
 Check you have gem -v
 Check you have ruby -v
 
+=======
+>>>>>>> 00ea752633148ccecb145f7b00cdc8c6080436cf
 sudo gem install jekyll
 if you get an error follow these steps https://github.com/geerlingguy/ansible-role-ruby/issues/42
 
