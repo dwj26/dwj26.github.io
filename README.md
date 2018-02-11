@@ -14,6 +14,22 @@ Follow instruction here to install Bootstrap. https://simpleit.rocks/how-to-add-
 
 Install Visual Code
 
+# => For Ubuntu
+Git clone Repo
+Install Atom - 
+sudo add-apt-repository ppa:webupd8team/atom
+sudo apt-get update
+sudo apt-get install atom
+
+Open a Project in Atom on the cloned Repository
+Link Atom with Github - github.atom.io/login
+
+sudo gem install jekyll
+if you get an error follow these steps https://github.com/geerlingguy/ansible-role-ruby/issues/42
+
+navigate to the right folder
+Then go to Build Section
+
 
 # => For windows 8
 Intall Jekyll:
