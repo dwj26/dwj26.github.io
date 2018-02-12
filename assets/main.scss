@@ -124,7 +124,7 @@ img {
   background-image: url(/assets/img/IMG_6802-760x400.jpg);
 }
 .grid-banner:hover {
-  opacity: 0.8;
+  opacity: 0.6;
 }
 
 .navbar {
@@ -220,6 +220,8 @@ img {
 .grid-banner:hover .middle {
   opacity: 1;
   background: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-color: #000080;
 }
 /*Cookie Consent Begin*/
 #cookieConsent {
