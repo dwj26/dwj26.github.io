@@ -11,7 +11,7 @@ title: A Slice of Cambridge
     <div class="row">
             {% for post in site.posts %}
             {% if post.featured %}
-                <div class="col-md-4 col-sm-12">
+                <div class="col-md-12 col-xl-4">
 									  <a href="{{ post.url }}">
 												<div class="grid-banner" style="background-image: url('{{ post.featured-img }}');">
 													<div class = "middle">
@@ -35,7 +35,7 @@ title: A Slice of Cambridge
 <div class="container">
     <div class="row">
             {% for post in site.posts %}
-                <div class="col-md-4 col-sm-12">
+                <div class="col-md-12 col-xl-4">
 									  <a href="{{ post.url }}">
 												<div class="grid-banner" style="background-image: url('{{ post.featured-img }}');">
 													<div class = "middle">
