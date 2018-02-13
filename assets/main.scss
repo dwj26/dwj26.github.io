@@ -5,7 +5,7 @@
 @import "bootstrap/scss/bootstrap";
 
 body {
-    margin: 60px auto;
+    margin: 65px auto;
     width: 75%;
     font-family: Lato, sans-serif;
 }
@@ -230,6 +230,11 @@ img {
     background: rgba(255, 255, 255, 1);
     border-style: solid;
     border-color: #000080;
+  }
+  body {
+      margin: 120px auto;
+      width: 95%;
+      font-family: Lato, sans-serif;
   }
 }
 /*Cookie Consent Begin*/
