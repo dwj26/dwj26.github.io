@@ -6,7 +6,7 @@ title: A Slice of Cambridge
 ![image-title-here](/assets/img/logo.png){:class="img-responsive"}
 
 <p></p>
-<h3 align = "center"> - Featured on A Slice of Cambridge - </h3>
+<h2 align = "center"> - Featured on A Slice of Cambridge - </h2>
 <div class="container">
     <div class="row">
             {% for post in site.posts %}
