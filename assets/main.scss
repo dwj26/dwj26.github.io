@@ -32,12 +32,12 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family: Lato, sans-serif;
     text-transform: uppercase;
 }
 h2 {
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: Lato, sans-serif;
     text-transform: uppercase;
 }
@@ -58,20 +58,29 @@ footer {
 
 ul.posts {
     margin: 20px auto 40px;
-    font-size: 1.5em;
+    font-size: 1em;
+    list-style-type: circle;
 }
 
 ul.posts li {
     list-style: none;
+    font-size: 1em;
+    list-style-type: circle;
 }
 
 li.posts {
-    font-size: 1.5em
+    font-size: 1em
 }
 
 img {
     width: 100%;
     height: auto;
+}
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+  font-style:italic;
 }
 
 .cover-banner {
