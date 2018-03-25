@@ -3,7 +3,7 @@ layout: default
 title: A Slice of Cambridge
 ---
 
-[![image-title-here](/assets/img/logo.png){:class="img-responsive"}](/about/)
+[![image-title-here](/assets/img/logo.png){:class="img-responsive"}{:id="title-banner"}](/about/)
 
 <p></p>
 <h3 align = "center"> - Featured on A Slice of Cambridge - </h3>
