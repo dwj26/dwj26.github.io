@@ -1,5 +1,5 @@
 # dwj26.github.io
-blog
+blog creations
 
 This repository is for all code to rebuild site as fully customisable and away from WordPress.
 
