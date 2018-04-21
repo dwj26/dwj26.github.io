@@ -21,30 +21,31 @@ function readCookie(name) {
         return null;
     }
 
-    var cookieMessage = document.getElementById('cookieConsent');
-    if (cookieMessage == null) {
-        return;
-    }
-    var cookie = readCookie('seen-cookie-message');
-    if (cookie != null && cookie == 'yes') {
-        cookieMessage.style.display = 'none';
-    } else {
-        cookieMessage.style.display = 'block';
-    }
+var cookieMessage = document.getElementById('cookieConsent');
+if (cookieMessage == null) {
+    return;
+}
+var cookie = readCookie('seen-cookie-message');
+if (cookie != null && cookie == 'yes') {
+    cookieMessage.style.display = 'none';
+} else {
+    cookieMessage.style.display = 'block';
+}
 
-    // Set/update cookie
-    var cookieExpiry = cookieMessage.getAttribute('data-cookie-expiry');
-    if (cookieExpiry == null) {
-        cookieExpiry = 30;
-    }
-    var cookiePath = cookieMessage.getAttribute('data-cookie-path');
-    if (cookiePath == null) {
-        cookiePath = "/";
-    }
+// Set/update cookie
+var cookieExpiry = cookieMessage.getAttribute('data-cookie-expiry');
+if (cookieExpiry == null) {
+    cookieExpiry = 30;
+}
+var cookiePath = cookieMessage.getAttribute('data-cookie-path');
+if (cookiePath == null) {
+    cookiePath = "/";
+}
 
-    document.getElementById('cookieok').onclick = createCookie('seen-cookie-message','yes',cookieExpiry,cookiePath);
-    document.getElementById('cookieok').onclick = function myFunction() {
-    var x = document.getElementById('cookieConsent');
-    x.style.display = "none";
+
+document.getElementById('cookieok').onclick = function myFunction() {
+  var x = document.getElementById('cookieConsent');
+  x.style.display = "none";
+  createCookie('seen-cookie-message','yes',cookieExpiry,cookiePath);
 }
 })();
