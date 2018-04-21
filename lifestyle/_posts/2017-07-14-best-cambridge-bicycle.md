@@ -2,7 +2,6 @@
 layout: post
 date: 2017-07-14
 title: Best Cambridge Bicycle
-featured: true
 featured-img: /assets/img/bike.jpg
 ---
 If you’re coming to Cambridge to work or study, sooner or later you’ll find your new best friend not being a person or a pet but a bike. How else are you meant to make that 9 am lecture when it’s 8.55 am or beat the long traffic jams when trying to get to work? A bike is the mode of transport when in Cambridge. But if you aren’t used to getting around on one, the thought might seem a bit daunting. Here is some advice on the best Cambridge bicycle.

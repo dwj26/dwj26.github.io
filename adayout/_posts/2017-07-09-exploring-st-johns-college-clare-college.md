@@ -2,7 +2,6 @@
 layout: post
 date: 2017-07-09
 title: Exploring St John's College and Clare College
-featured: true
 featured-img: /assets/img/johns.jpg
 ---
 
