@@ -8,7 +8,9 @@ body {
   margin: 35px auto;
   width: 75%;
   font-family: Lato, sans-serif;
-  font-size: 0.9em;
+  font-size: 13px;
+  line-height: 22px;
+  color: #545454;
 }
 
 .homeh3 span:before, .homeh3 span:after {
@@ -62,12 +64,6 @@ h3 {
   font-size: 1.2em;
   font-family: Lato, sans-serif;
   text-transform: uppercase;
-}
-
-p {
-  font-size: 1em;
-  line-height: 1.2em;
-  font-family: Lato, sans-serif;
 }
 
 footer {
@@ -280,7 +276,9 @@ img {
   body {
     margin: 35px auto;
     width: 95%;
+    color: #545454;
     font-family: Lato, sans-serif;
+    font-size: 0.9em;
   }
   #post-title {
     font-size: 1.8em;
@@ -332,3 +330,33 @@ img {
 #title-banner {
   max-width: 800px;
 }
+
+/*Page Nav*/
+.PageNavigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
+}
+
+.PageNavigation .prev:before {
+  content: "⇐ ";
+  margin-right: 10px;
+}
+.PageNavigation .next:after {
+  content: " ⇒";
+  margin-left: 10px;
+}
+
+/*Page Nav*/
