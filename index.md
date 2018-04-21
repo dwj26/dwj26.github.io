@@ -6,7 +6,7 @@ title: A Slice of Cambridge
 [![image-title-here](/assets/img/logo.png){:class="img-responsive"}{:id="title-banner"}](/about/)
 
 <p></p>
-<h3 align = "center"> - Featured - </h3>
+<h3 align = "center" class = "homeh3"><span>Featured</span></h3>
 <div class="container">
     <div class="row">
             {% for post in site.posts %}
@@ -31,7 +31,7 @@ title: A Slice of Cambridge
 
 
 <p></p>
-<h3 align = "center"> - All Posts - </h3>
+<h3 align = "center" class = "homeh3"><span>All Posts</span></h3>
 <div class="container">
     <div class="row">
             {% for post in site.posts %}

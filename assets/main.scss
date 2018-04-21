@@ -8,9 +8,26 @@ body {
   margin: 35px auto;
   width: 75%;
   font-family: Lato, sans-serif;
+  font-size: 0.9em;
 }
 
+.homeh3 span:before, .homeh3 span:after {
+  content: "";
+  position: absolute;
+  width: 20px;
+  height: 4px;
+  margin-top: 8px;
+  border-top: 1px solid #c4c4c4;
+  border-bottom: 1px solid #c4c4c4;
+}
 
+.homeh3 span:before {
+  margin-left: -28px;
+}
+
+.homeh3 span:after {
+  margin-left: 8px;
+}
 
 nav ul, footer ul {
   font-family: Lato;
