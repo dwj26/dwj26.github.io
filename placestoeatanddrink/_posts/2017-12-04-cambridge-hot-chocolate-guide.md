@@ -9,6 +9,8 @@ Winter is the season for comfort food, cosy knits, and hot chocolates. Luckily, 
 <h2>Hotel Chocolat</h2>
 Need some energy for a busy day Christmas shopping in the Grand Arcade? Luckily Hotel Chocolat is right on your doorstep. While the shop contains an extensive range of tasty festive treats, the cafe serves one of the largest ranges of hot chocolates in Cambridge! The luxury chocolate retail chain offers everything from 70% and 100% dark hot chocolates, to flavoured hot chocolates, including salted caramel and chilli, as well as festive varieties, such as winter spice. Made from flakes of pure chocolate stirred into milk and topped with a chocolate-flavoured cream, it’s definitely worth stopping by Hotel Chocolat to try one.
 
+![chocolat chocolat](/assets/img/chocolat.jpg)
+
 <h2>Chocolat Chocolat</h2>
 
 For the ultimate naughty treat this winter, Chocolat Chocolat offers little pots of thick, melted chocolate yumminess – you’ll definitely need the spoon they provide with it! As specialist chocolatiers, their hot chocolate is made from rich, smooth chocolate and can be topped with a range of seasonal goodies, such as marshmallows, honeycomb, cream, and chocolate stars. Make sure you check out their gorgeous range of chocolate gifts while you’re there!
@@ -16,6 +18,8 @@ For the ultimate naughty treat this winter, Chocolat Chocolat offers little pots
 <h2>Aromi</h2>
 
 If you fancy a taste of Sicily, head to Aromi for one of their special hot chocolates. Available in three divine flavours; hazelnut, dark cocoa, or pistachio, their thick, rich hot chocolates will help you warm up from the cold in no time – whether you’re Christmas shopping in the Grafton Centre or strolling along King’s Parade.
+
+![Aromi](/assets/img/aromi.jpg)
 
 <h2>Jack’s Gelato</h2>
 
@@ -29,6 +33,7 @@ Stir brings a buzz of energy to the end of Chesterton Road. It’s rare to find 
 
 How could the iconic Fitzbillies not be included in a Cambridge hot chocolate guide? A delicious drink from one of Cambridge’s most famous coffee shops, Fitzbillies’ hot chocolate is made with mouth-watering ganache from their bakery. Mixed into warm milk, their hot chocolate will keep you warm whether you are visiting Cambridge University’s beautiful colleges or punting along the River Cam.
 
+![Fitz](/assets/img/fitz.jpg)
 
 
 <h2>Benets</h2>
