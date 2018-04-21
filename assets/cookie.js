@@ -42,9 +42,10 @@ if (cookiePath == null) {
     cookiePath = "/";
 }
 
-document.getElementById('cookieok').onclick = createCookie.bind(null,'seen-cookie-message','yes',cookieExpiry,cookiePath);
+
 document.getElementById('cookieok').onclick = function myFunction() {
   var x = document.getElementById('cookieConsent');
   x.style.display = "none";
+  createCookie('seen-cookie-message','yes',cookieExpiry,cookiePath);
 }
 })();
