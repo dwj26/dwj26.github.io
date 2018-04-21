@@ -7,7 +7,7 @@ featured-img: /assets/img/bike.jpg
 ---
 If you’re coming to Cambridge to work or study, sooner or later you’ll find your new best friend not being a person or a pet but a bike. How else are you meant to make that 9 am lecture when it’s 8.55 am or beat the long traffic jams when trying to get to work? A bike is the mode of transport when in Cambridge. But if you aren’t used to getting around on one, the thought might seem a bit daunting. Here is some advice on the best Cambridge bicycle.
 
-Best Cambridge Bicycle
+![Best Cambridge Bicycle](/assets/img/bike.jpg)
 
 <h2>THE VINTAGE-STYLE BIKE</h2>
 You have probably seen pictures of King’s Parade with vintage-style bikes featured as quintessentially Cambridge – and this isn’t far wrong. Many companies now sell vintage-looking bikes in a range of pastel colours complete with a cute wicker basket on the front and a pannier rack at the back. The wicker basket can be used for holding a small bag, a handful of notes and books, or some shopping but adding panniers to the rack at the back will provide space for larger items. If you dream of living the Cambridge fairytale and cycling around the city with a bunch of fresh flowers resting in your basket, I’d definitely recommend buying a vintage-style bike.

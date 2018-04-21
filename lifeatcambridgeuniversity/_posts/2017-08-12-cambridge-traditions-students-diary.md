@@ -6,7 +6,7 @@ featured-img: /assets/img/traditions.jpg
 ---
 As you can imagine, a Cambridge University student’s diary is very busy, filled with lectures, supervisions, practicals, reading, formal halls, sports practices, society meet-ups, and of course socialising! However, there are some important Cambridge traditions bookmarked in every student’s calendar.
 
-Laptop, glasses, and notepad with Cambridge traditions written on
+![Laptop, glasses, and notepad with Cambridge traditions written on](/assets/img/traditions.jpg)
 
 <h2>MATRICULATION</h2>
 To officially become a member of the University of Cambridge, all students have to be matriculated at their college. The ceremony involves signing the Matriculation Registration Form and takes places in Freshers’ Week, making it one of the first things students do when arriving in Cambridge to study. After the ceremony, students attend a delicious three-course dinner to celebrate with the rest of their year and academics from the college.
