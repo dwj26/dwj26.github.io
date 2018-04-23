@@ -1,6 +1,7 @@
 ---
 layout: default
-title: A Slice of Cambridge
+title: "A Slice of Cambridge"
+description: "A Slice of Cambridge. A Cambridge food and lifestyle blog serving up a slice of Cambridge by showing the best places to eat, drink and see. Instagram - A Slice of Cambridge (@asliceofcambridge)"
 ---
 
 [![image-title-here](/assets/img/logo.png){:class="img-responsive"}{:id="title-banner"}](/about/)

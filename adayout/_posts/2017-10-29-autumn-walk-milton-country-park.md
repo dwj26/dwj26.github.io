@@ -1,8 +1,9 @@
 ---
 layout: post
 date: 2017-10-29
-title: An Autumn Walk in Milton Country Park
-featured-img: /assets/img/walk.jpg
+title: "An Autumn Walk in Milton Country Park"
+featured-img: "/assets/img/walk.jpg"
+description: "While Cambridge is an exciting place to live and work, some weekends it is nice to escape the busy city and head to the countryside."
 ---
 
 While Cambridge is an exciting place to live and work, some weekends it is nice to escape the busy city and head to the countryside. Luckily, just a short cycle or drive away from the city centre is Milton Country Park. Despite being on the doorstep of Cambridge, Milton Country Park makes you feel as if you’re in the heart of the Cambridgeshire countryside. The park is a quiet and picturesque spot for a walk with friends or family and is the ideal place for a weekend run. (Milton Country Park hosts Parkrun and Junior Parkrun every Saturday, so if you are a keen runner or just fancy joining in, make sure to go along!)

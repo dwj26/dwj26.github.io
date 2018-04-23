@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Healthy Brunch Spots - Hot Numbers Coffee
+title: "Healthy Brunch Spots - Hot Numbers Coffee"
 date: 2018-01-09
-featured-img: /assets/img/hot.jpg
+featured-img: "/assets/img/hot.jpg"
+description: "It’s a new year and for most of us that means trying to eat healthier and getting into a good exercise routine (at least that’s what we told ourselves when we set our New Year’s Resolutions!)"
 ---
 It’s a new year and for most of us that means trying to eat healthier and getting into a good exercise routine (at least that’s what we told ourselves when we set our New Year’s Resolutions!) Luckily for the brunch lovers out there, Cambridge has some great healthy brunch offerings. In this mini blog series, I’m going to be sharing a few of my favourites, which I’d encourage you to try this January. First up, Hot Numbers Coffee.
 

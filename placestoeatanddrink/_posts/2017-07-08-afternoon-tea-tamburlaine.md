@@ -1,8 +1,9 @@
 ---
 layout: post
 date: 2017-07-08
-title: Afternoon Tea at the Tamburlaine
-featured-img: /assets/img/tamburlaine.jpg
+title: "Afternoon Tea at the Tamburlaine"
+featured-img: "/assets/img/tamburlaine.jpg"
+description: "Organising an afternoon tea celebration in Cambridge? One of the city’s newest hotels, The Tamburlaine, might be just the place you’re looking for."
 ---
 
 Organising an afternoon tea celebration in Cambridge? One of the city’s newest hotels, The Tamburlaine, might be just the place you’re looking for. Situated a stone’s throw from Cambridge Train Station, this chic, modern hotel offers a delicious afternoon tea.

@@ -1,8 +1,9 @@
 ---
 layout: post
 date: 2017-09-21
-title: Packing for Your First Term in Cambridge
-featured-img: /assets/img/packing.jpg
+title: "Packing for Your First Term in Cambridge"
+featured-img: "/assets/img/packing.jpg"
+description: "It’s hard to anticipate everything that you might need when packing for University, especially when you are just starting your first year."
 ---
 It’s hard to anticipate everything that you might need when packing for University, especially when you are just starting your first year. There are the essential things that most students need, such as crockery and bedlinen, but after being at University for a term or two, you’ll find there are other things you wish you’d thought to bring. To help you pack for your first term at Cambridge University, here are my top tips for what you should bring.
 

@@ -1,8 +1,9 @@
 ---
 layout: post
 date: 2017-10-14
-title: A Week in the Life of a First Year Natural Sciences Student
-featured-img: /assets/img/natsci.jpg
+title: "A Week in the Life of a First Year Natural Sciences Student"
+featured-img: "/assets/img/natsci.jpg"
+description: "Studying the Natural Sciences course at the University of Cambridge is a once-in-a-lifetime experience."
 ---
 Studying the Natural Sciences course at the University of Cambridge is a once-in-a-lifetime experience. You are taught by some of the world’s leading scientists in surroundings where breakthrough discoveries have been made – not to mention that Cambridge is such a gorgeous city to live in! But studying the Natural Sciences course at Cambridge is not a walk in the park; it’s very fast-paced and involves a lot of hard work. Any NatSci student (Cambridge lingo for someone studying the Natural Sciences course) will tell you how they have spent many late nights frantically finishing essays or desperately trying to learn the enzymes in biological pathways. If you’re thinking of applying or just want an insight into life at Cambridge University, here is what a typical week for a first year biological Natural Sciences student looks like.
 

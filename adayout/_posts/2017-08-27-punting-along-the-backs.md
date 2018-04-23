@@ -1,9 +1,10 @@
 ---
 layout: post
 date: 2017-08-27
-title: Punting Along The Backs of the Cam
+title: "Punting Along The Backs of the Cam"
 featured: true
-featured-img: /assets/img/punting5.jpg
+featured-img: "/assets/img/punting5.jpg"
+description: "Punting along The Backs is one of the most iconic things to do in Cambridge and is a fantastic day out with friends and family, or makes for a very special date."
 ---
 
 Punting along The Backs is one of the most iconic things to do in Cambridge and is a fantastic day out with friends and family, or makes for a very special date. To see truly unmissable views of Cambridge University’s old colleges as well as the famous bridges, you should choose to go punting along The Backs rather than towards Grantchester. You can either hire a boat yourself and try your hand at punting. Alternatively, you can take a chauffeured tour along The Backs run by companies like Scudamores, where a professional will do the hard work for you and share stories about the history of Cambridge University.
