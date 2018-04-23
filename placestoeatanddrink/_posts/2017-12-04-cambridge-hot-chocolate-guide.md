@@ -1,8 +1,9 @@
 ---
-title: Cambridge Hot Chocolate Guide
+title: "Cambridge Hot Chocolate Guide"
 date: 2017-12-04
 layout: post
-featured-img: /assets/img/hotchoc.jpg
+featured-img: "/assets/img/hotchoc.jpg"
+description: "Winter is the season for comfort food, cosy knits, and hot chocolates. Luckily, the Cambridge food and drink scene serves up some delicious hot chocolates to keep us all warm and toasty while dashing around in the cold Christmas shopping."
 ---
 Winter is the season for comfort food, cosy knits, and hot chocolates. Luckily, the Cambridge food and drink scene serves up some delicious hot chocolates to keep us all warm and toasty while dashing around in the cold Christmas shopping. After sampling many hot chocolates around Cambridge this winter, here is my Cambridge hot chocolate guide featuring some of the best on offer.
 

@@ -1,8 +1,9 @@
 ---
-title: A Romantic Dinner at Varsity Restaurant
+title: "A Romantic Dinner at Varsity Restaurant"
 layout: post
 date: 2017-10-01
-featured-img: /assets/img/varsity.jpg
+featured-img: "/assets/img/varsity.jpg"
+description: "Whether you’re in a long-term relationship or just getting to know someone, going on a date is always exciting!"
 ---
 
 Whether you’re in a long-term relationship or just getting to know someone, going on a date is always exciting! While there are many things to decide on, such as which outfit to wear and how to style your hair, you also have to choose a restaurant. Fortunately, Cambridge has lots of romantic places for dinner but the Varsity Restaurant is one of my new favourites.

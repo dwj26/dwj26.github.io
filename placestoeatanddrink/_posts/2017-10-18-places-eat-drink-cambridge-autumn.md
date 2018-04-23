@@ -1,8 +1,9 @@
 ---
 layout: post
 date: 2017-10-18
-title: Place to Eat and Drink in Cambridge this Autumn
-featured-img: /assets/img/autumn.jpg
+title: "Place to Eat and Drink in Cambridge this Autumn"
+featured-img: "/assets/img/autumn.jpg"
+description: "Cambridge looks magnificent at this time of year with autumnal shades of brown, red, orange, and yellow perfectly complementing the beautiful university buildings."
 ---
 
 Cambridge looks magnificent at this time of year with autumnal shades of brown, red, orange, and yellow perfectly complementing the beautiful university buildings. It’s a great time of year to explore the city and take in the gorgeous colours – as a visitor or as a local. As the temperature drops and the breeze picks up, warm drinks and comforting food is just what is needed. Here are my top places to eat and drink in Cambridge this Autumn.

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Brunch at the Old Bicycle Shop
+title: "Brunch at the Old Bicycle Shop"
 date: 2017-11-08
-featured-img: /assets/img/bicycleshop.jpg
+featured-img: "/assets/img/bicycleshop.jpg"
+description: "A hot pot of tea with a delicious brunch is perfect on a cold and frosty November morning before hitting the shops to start your Christmas shopping."
 ---
 
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Warming Up at Bould Brothers Coffee
+title: "Warming Up at Bould Brothers Coffee"
 date: 2017-09-13
-featured-img: /assets/img/bould.jpg
+featured-img: "/assets/img/bould.jpg"
+description: "On a crisp autumnal morning, there is nothing like a warming cup of tea or coffee to start your day."
 ---
 
 On a crisp autumnal morning, there is nothing like a warming cup of tea or coffee to start your day. Great independent coffee shops are not rare in Cambridge but if you’re wandering around the shops on Bridge Street or exploring some of Cambridge’s beautiful old colleges, I’d recommend stopping at Bould Brothers Coffee.
