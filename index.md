@@ -14,7 +14,7 @@ description: "A Slice of Cambridge. A Cambridge food and lifestyle blog serving 
                 <div class="col-md-12 col-xl-4">
 												<div class="grid-banner" style="background-image: url('{{ post.featured-img }}');">
 													<div class = "middle">
-													<h3>{{ post.title }}</h3>
+													<h3 class = "posth3">{{ post.title }}</h3>
 													<p>{{post.date | date_to_string}}</p>
                           <a href="{{post.url}}"><div class = "btn">Read</div></a>
 												</div>
@@ -38,7 +38,7 @@ description: "A Slice of Cambridge. A Cambridge food and lifestyle blog serving 
                 <div class="col-md-12 col-xl-4">
 												<div class="grid-banner" style="background-image: url('{{ post.featured-img }}');">
 													<div class = "middle">
-													<h3>{{ post.title }}</h3>
+													<h3 class = "posth3">{{ post.title }}</h3>
 													<p>{{post.date | date_to_string}}</p>
                           <a href="{{ post.url }}"><div class = "btn">Read</div></a>
 												</div>
