@@ -187,7 +187,7 @@ hr.menu  {
   overflow: hidden;
   text-align: center;
   margin: auto;
-  max-width:615px;
+  max-width:665px;
 }
 
 /* Style the links inside the navigation bar */
@@ -201,10 +201,22 @@ hr.menu  {
   text-transform: uppercase;
 }
 
+.topnav a.fa {
+  font-size: 1.5em;
+}
+
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ddd;
   color: black;
+}
+
+.fa {
+  padding: 20px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 2px;
 }
 
 /* Add an active class to highlight the current page */
