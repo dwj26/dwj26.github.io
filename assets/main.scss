@@ -31,10 +31,8 @@ body {
   margin-left: 8px;
 }
 
-#home-title{
-  color: #b0e0e6;
-  font-size: 5em;
-  text-transform: capitalize;
+.posth3 {
+  text-transform:capitalize;
 }
 
 nav ul, footer ul {
@@ -66,7 +64,7 @@ h2 {
   text-transform: uppercase;
 }
 h3 {
-  font-size: 1.2em;
+  font-size: 1.3em;
   font-family: Lato, sans-serif;
   text-transform: uppercase;
 }
@@ -310,6 +308,7 @@ img {
   }
   #post-title {
     font-size: 1.8em;
+    text-transform: capitalize;
   }
 }
 /*Cookie Consent Begin*/
@@ -357,6 +356,10 @@ img {
 
 #title-banner {
   max-width: 800px;
+}
+
+#post-title {
+  text-transform: capitalize;
 }
 
 /*Page Nav*/
