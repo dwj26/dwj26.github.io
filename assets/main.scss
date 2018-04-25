@@ -179,7 +179,7 @@ hr.menu  {
 }
 
 .cambridge-blue {
-  color: #8dabb1;
+  color: #000080;
 }
 
 .topnav {
@@ -203,6 +203,10 @@ hr.menu  {
 
 .topnav a.fa {
   font-size: 1.5em;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 2px;
 }
 
 /* Change the color of links on hover */
@@ -211,9 +215,9 @@ hr.menu  {
   color: black;
 }
 
-.fa {
-  padding: 20px;
+a.fa {
   width: 50px;
+  font-size: 30px;
   text-align: center;
   text-decoration: none;
   margin-top: 2px;
@@ -311,6 +315,10 @@ hr.menu  {
     font-size: 1.8em;
     text-transform: capitalize;
   }
+/*TODO: WE need to make social sharing work on mobile*/
+  .sticky-container{
+    display: none;
+  }
 }
 /*Cookie Consent Begin*/
 #cookieConsent {
@@ -353,7 +361,7 @@ hr.menu  {
   width: 95%;
   margin-left: auto;
   margin-right: auto;
-  color:  #8dabb1;
+  color:  #000080;
 }
 
 #title-banner {
@@ -393,3 +401,51 @@ hr.menu  {
 }
 
 /*Page Nav*/
+
+/*Social Sharers*/
+
+.sticky-container{
+    padding:0px;
+    margin:0px;
+    position:fixed;
+    right:-80px;
+    top:230px;
+    width:210px;
+    z-index: 1100;
+}
+.sticky li{
+    list-style-type:none;
+    background-color:#fff;
+    color:#efefef;
+    height:43px;
+    padding:0px;
+    margin:10px 0px 10px 0px;
+    -webkit-transition:all 0.25s ease-in-out;
+    -moz-transition:all 0.25s ease-in-out;
+    -o-transition:all 0.25s ease-in-out;
+    transition:all 0.25s ease-in-out;
+    cursor:pointer;
+}
+.sticky li:hover{
+    margin-left:-80px;
+}
+.sticky li img{
+    float:left;
+    margin:5px 4px;
+    margin-right:5px;
+}
+.sticky li p{
+    padding-top:5px;
+    margin:0px;
+    line-height:16px;
+    font-size:11px;
+}
+.sticky li p a{
+    text-decoration:none;
+    color:#2C3539;
+}
+.sticky li p a:hover{
+    text-decoration:underline;
+}
+
+/*Social Sharers*/
