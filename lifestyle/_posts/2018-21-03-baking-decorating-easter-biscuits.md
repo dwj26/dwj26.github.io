@@ -7,7 +7,6 @@ featured-img: "/assets/img/bake.jpg"
 description: "Easter is a lovely time of year to bake for friends and family. One of my favourite things to bake is Easter biscuits, iced with pretty pastel colours."
 ---
 
-BAKING AND DECORATING EASTER BISCUITS
 Easter is a lovely time of year to bake for friends and family. One of my favourite things to bake is Easter biscuits, iced with pretty pastel colours. If you are looking for some Easter baking ideas or just want to learn how to decorate biscuits, here are some recipe suggestions for making Easter biscuits, as well as some of my baking and decorating tips.
 
 For the Easter biscuits themselves, I tend to use a basic shortbread recipe, such as this shortbread recipe from BBC Food, since I find shortbread biscuits not too sweet so they perfectly offset the sweetness of the royal icing I use for decoration.

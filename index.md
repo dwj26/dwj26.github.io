@@ -3,7 +3,6 @@ layout: default
 title: "A Slice of Cambridge"
 description: "A Slice of Cambridge. A Cambridge food and lifestyle blog serving up a slice of Cambridge by showing the best places to eat, drink and see. Instagram - A Slice of Cambridge (@asliceofcambridge)"
 ---
-<hr>
 
 <p></p>
 <h3 align = "center" class = "homeh3"><span>Featured</span></h3>
