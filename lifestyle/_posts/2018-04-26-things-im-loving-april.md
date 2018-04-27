@@ -4,10 +4,10 @@ date: 2018-04-26
 title: "Things I’m loving in Cambridge this April"
 featured: true
 featured-img: "/assets/img/FullSizeRender.jpg"
-description: "Here are some of the little things I’m loving in Cambridge this April, which I hope you are too!"
+description: "Here are some of the things I’m loving in Cambridge this April, which I hope you are too!"
 ---
 
-April usually means miserable showers but how lovely has the weather been this year? 27 degrees, blistering sunshine, and flip flops aren’t usually on the cards for Spring but, like me, I’m sure you haven’t been complaining! It’s amazing how much happier a bit of sunshine makes everyone - it definitely puts a smile on my face and a spring in my step. Here are some of the little things I’m loving in Cambridge this April, which I hope you are too!
+April usually means miserable showers but how lovely has the weather been this year? 27 degrees, blistering sunshine, and flip flops aren’t usually on the cards for Spring but, like me, I’m sure you haven’t been complaining! It’s amazing how much happier a bit of sunshine makes everyone - it definitely puts a smile on my face and a spring in my step. Here are some of the things I’m loving in Cambridge this April, which I hope you are too!
 
 ### Cherry blossom and magnolia tree spotting
 As if Cambridge isn’t stunning enough with its beautiful colleges, river, and quaint shops but when the cherry blossom and magnolia trees flower in Spring the city looks gorgeous. Whilst wandering around the city running errands and meeting up with friends, I’ve been loving spotting cute corners of Cambridge sprinkled with beautiful pink cherry blossom or scattered with magnolia flower petals (and photographing them too)! I know they’ll soon disappear and it will time for the wisteria to flower but I have to say, I think the beautiful pink shades of blossom and magnolia flowers are my favourite.
@@ -26,6 +26,6 @@ This Spring, I’ve been buying beautiful fresh flowers from [Cambridge market](
 ![Flowers](/assets/img/IMG_8421.JPG)
 
 ### Eating brunch outside
-If you’ve followed me on [Instagram](https://www.instagram.com/asliceofcambridge/?hl=en) for a while, you’ll know I’m a sucker for a spot of weekend brunch - and why wouldn’t you be when Cambridge has such a great choice of [healthy brunch locations](/healthy-brunch-spots-hot-numbers-coffee)! The sunny April Saturday mornings have been perfect for brunch outside and I recently enjoyed a scrummy eggs benedict on sourdough bread (the best) sat on [The Petersfield’s terrace](http://www.thepetersfield.co.uk/). Their little outside space features wooden tables and benches, with fairy lights and rugs for the chiller summer evenings. This little gem is in the heart of one of Cambridge’s most popular residential areas and is popular with locals but by being slightly off the beaten track, it’s a great place to meet friends for a more relaxed brunch setting. Where have you been enjoying brunch recently?
+If you’ve followed me on [Instagram](https://www.instagram.com/asliceofcambridge/?hl=en) for a while, you’ll know I’m a sucker for a spot of weekend brunch - and why wouldn’t you be when Cambridge has such a great choice of [healthy brunch locations](/healthy-brunch-spots-hot-numbers-coffee)! The sunny April Saturday mornings have been perfect for brunch outside and I recently enjoyed a scrummy eggs benedict on sourdough bread (the best) sat on [The Petersfield’s terrace](http://www.thepetersfield.co.uk/). The pub's little outside space features wooden tables and benches, with fairy lights and rugs for the colder summer evenings. This little gem is in the heart of one of Cambridge’s most sought-after residential areas and is popular with locals, but by being slightly off the beaten track, it’s a great place to meet friends for a more relaxed brunch setting. Where have you been enjoying brunch recently?
 
 ![Petersfield](/assets/img/IMG_8396.jpg)
