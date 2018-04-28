@@ -504,6 +504,10 @@ a.fa {
     .sticky ul {
       padding: 0px;
     }
+    .sticky a{
+      display: inline-block;
+      padding-right: 0px;
+    }
 
       .sticky li:hover{
           margin-left:0px;
