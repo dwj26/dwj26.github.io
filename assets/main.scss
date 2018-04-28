@@ -413,7 +413,7 @@ a.fa {
     padding:0px;
     margin:0px;
     position:fixed;
-    right:-80px;
+    right:-95px;
     top:230px;
     width:210px;
     z-index: 1100;
@@ -431,6 +431,12 @@ a.fa {
     transition:all 0.25s ease-in-out;
     cursor:pointer;
 }
+
+.sticky a{
+  display: inline-block;
+  padding-right: 120px;
+}
+
 .sticky li:hover{
     margin-left:-80px;
 }
