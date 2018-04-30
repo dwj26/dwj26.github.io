@@ -3,6 +3,7 @@ layout: post
 date: 2018-03-21
 title: "Baking and decorating easter biscuits"
 featured-img: "/assets/img/bake.jpg"
+featured: true
 description: "Easter is a lovely time of year to bake for friends and family. One of my favourite things to bake is Easter biscuits, iced with pretty pastel colours."
 ---
 
