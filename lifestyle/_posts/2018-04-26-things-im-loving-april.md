@@ -2,7 +2,7 @@
 layout: post
 date: 2018-04-26
 title: "Things I’m loving in Cambridge this April"
-featured: true
+featured-active: true
 featured-img: "/assets/img/FullSizeRender.jpg"
 description: "Here are some of the things I’m loving in Cambridge this April, which I hope you are too!"
 ---
