@@ -515,9 +515,16 @@ a.fa {
 
 }
 
+
+
 /*Social Sharers
 
 /*Carousel*/
+
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
 
 @media (min-width: 1200px) {
   /* show 3 items */
@@ -592,10 +599,6 @@ a.fa {
     position: relative;
     transform: translate3d(100%, 0, 0);
     visibility: visible;
-  }
-  .container-fluid {
-    padding-left: 0px;
-    padding-right: 0px;
   }
 
 }
