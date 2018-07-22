@@ -19,7 +19,7 @@ Did someone say cocktails? 196 is an independent (and arguably the best) cocktai
 
 Black Cat Cafe was one of the first places I tried on Mill Road for brunch and it still remains one of the best. The cafe has a large breakfast/brunch menu offering everything from the traditional full English (the Black Cat breakfast) to avocado eggs benedict with their homemade lemon hollandaise - so yummy! Throw in one of their smoothies or some freshly squeezed orange juice and your weekend brunch fix is sorted and all for a reasonable price. Sit back on a Saturday and read the newspaper or use the free Wifi at Black Cat Cafe while watching life go by on Mill Road.
 
-![mill-road](/img/7D385276-F941-483A-84C2-D3DE7FE6ACE9.jpg)
+![mill-road](/assets/img/7D385276-F941-483A-84C2-D3DE7FE6ACE9.jpg)
 
 ## Urban Larder
 
