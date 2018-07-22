@@ -9,7 +9,7 @@ description: "Tucked away on the outskirts of the city centre is Mill Road – a
 
 Tucked away on the outskirts of the city centre is Mill Road – a road bursting with great independent shops, restaurants, pubs and cafes. It’s no surprise that the cute houses in the surrounding area are so sought-after. If you’re a foodie who loves trying new places, Mill Road will definitely be up your street.
 
-As I blogged about before, Mill Road has a lovely cake shop (Tom’s Cakes), a fantastic delicatessen (Culinaris) and an exquisite North African restaurant (La Bedouin). But, there are lots of other great places to discover in the foodie paradise that is Mill Road! In this blog, I’m going to share some of the other hidden gems Mill Road has to offer - this time, venturing over the other side of the railway bridge.
+As I blogged about [before](/mill-road-hidden-gems), Mill Road has a lovely cake shop (Tom’s Cakes), a fantastic delicatessen (Culinaris) and an exquisite North African restaurant (La Bedouin). But, there are lots of other great places to discover in the foodie paradise that is Mill Road! In this blog, I’m going to share some of the other hidden gems Mill Road has to offer - this time, venturing over the other side of the railway bridge.
 
 ## 196 Mill Road 
 
