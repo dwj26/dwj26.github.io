@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-08-22
+date: 2018-07-22
 title: "Mill Road's Hidden Gems - Part 2"
 featured: true
 featured-img: "/assets/img/7D385276-F941-483A-84C2-D3DE7FE6ACE9.jpg"
