@@ -2,7 +2,6 @@
 layout: post
 date: 2017-07-30
 title: "Mill Road's Hidden Gems"
-featured: true
 featured-img: "/assets/img/mill.jpg"
 description: "Tucked away on the outskirts of the city centre is Mill Road – a road bursting with great independent shops, restaurants, pubs, and cafes."
 ---
